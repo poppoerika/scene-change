@@ -1,0 +1,16 @@
+p {
+	text-align: center;
+}
+
+#beach {
+	height: 800px;
+	width: 800px;
+	background: linear-gradient(to right, lightgreen, lightblue);
+	margin: auto;
+}
+
+#leafers {
+            position: absolute;
+            top: 280px;
+            left: 378px;
+        }
